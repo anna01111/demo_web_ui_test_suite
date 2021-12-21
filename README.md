@@ -6,6 +6,7 @@ Author - Anna Lozynska
 The application under test can be found here
 
 https://github.com/microservices-demo/microservices-demo
+
 https://microservices-demo.github.io/
 
 Clone the application repository
